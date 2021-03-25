@@ -7,10 +7,10 @@ TextureImporter:
     second: scrimmy_idle
   - first:
       213: 5746766438559974683
-    second: ss_scrimmy_1
+    second: scrimmy_move
   - first:
       213: 7399205774737680149
-    second: scrimmy_squish
+    second: scrimmy_end
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,10 +111,10 @@ TextureImporter:
       name: scrimmy_idle
       rect:
         serializedVersion: 2
-        x: 10
-        y: 14
-        width: 79
-        height: 306
+        x: 27
+        y: 153
+        width: 113
+        height: 190
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,13 +129,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ss_scrimmy_1
+      name: scrimmy_move
       rect:
         serializedVersion: 2
-        x: 88
-        y: 282
-        width: 4
-        height: 5
+        x: 190
+        y: 110
+        width: 108
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,13 +150,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: scrimmy_squish
+      name: scrimmy_end
       rect:
         serializedVersion: 2
-        x: 108
-        y: 17
-        width: 111
-        height: 137
+        x: 6
+        y: 29
+        width: 159
+        height: 105
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
